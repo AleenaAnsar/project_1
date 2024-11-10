@@ -1,2 +1,2 @@
 # project_1
-This is my first Project 
+In this project i predicted the chances of diabates 
